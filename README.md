@@ -106,16 +106,4 @@ Over the next four years, I plan to:
 
 ---
 
-## ⭐ About This Repository
-
-This repository contains:
-
-* Project Report
-* Screenshots (if required)
-* Supporting files
-
-This project helped me understand how **digital literacy plays an important role in academic and professional success.**
-
----
-
 ✨ *Thank you for visiting my repository!*
