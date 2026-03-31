@@ -12,8 +12,8 @@ I sincerely apologize for any inconvenience caused and appreciate your understan
 
 Thank you for your time.
 
-Sincerely,
-Tavishi Umrao
+Sincerely,<br>
+Tavishi Umrao<br>
 VIT Bhopal University
 <br>
 <br>
@@ -31,8 +31,8 @@ I would greatly appreciate the opportunity to be considered for any available in
 
 Thank you for your time and consideration.
 
-Sincerely,
-Tavishi Umrao
+Sincerely,<br>
+Tavishi Umrao<br>
 VIT Bhopal University
 
 
