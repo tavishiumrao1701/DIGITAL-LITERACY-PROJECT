@@ -1,5 +1,5 @@
 ## Email 1: Request for Extension
-**Subject:** Request for Extension on Digital Literacy Assignment Deadline
+**Subject:** Request for Extension on Digital Literacy Assignment Deadline<br>
 Dear Professor,
 
 I hope you are doing well.
@@ -18,7 +18,7 @@ VIT Bhopal University
 <br>
 <br>
 ## Email 2: Internship Inquiry
-**Subject:** Application for Summer Internship Opportunity
+**Subject:** Application for Summer Internship Opportunity<br>
 Dear Internship Coordinator,
 
 I hope this message finds you well.
